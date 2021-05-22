@@ -1,0 +1,30 @@
+[submodule "bachpropagate"]
+	path = bachpropagate
+	url = git@github.com:jprorama/BachPropagate
+[submodule "creamy-fireflies"]
+	path = creamy-fireflies
+	url = git@github.com:jprorama/spotify-recsys-challenge
+[submodule "definitive-turtles"]
+	path = definitive-turtles
+	url = git@github.com:jprorama/recsys-challenge-2018
+[submodule "hair"]
+	path = hair
+	url = git@github.com:jprorama/Recsys-Spotify-2018-challenge
+[submodule "hello-world"]
+	path = hello-world
+	url = git@github.com:jprorama/spotify_recSys_challenge_2018
+[submodule "in3pd"]
+	path = in3pd
+	url = git@github.com:jprorama/recsys_spt2018
+[submodule "kaenan"]
+	path = kaenan
+	url = git@github.com:jprorama/rsc18
+[submodule "mipt_msu"]
+	path = mipt_msu
+	url = git@github.com:jprorama/RecSys2018-2
+[submodule "vl6"]
+	path = vl6
+	url = git@github.com:jprorama/RecSys2018
+[submodule "avito"]
+	path = avito
+	url = git@github.com:jprorama/recsys2018-1
